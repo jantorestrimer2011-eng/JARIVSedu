@@ -1,0 +1,79 @@
+{
+  "assignments": [
+    {
+      "id": 1,
+      "course": "Physics",
+      "description": "Moment",
+      "due_date": "2026-01-10T23:59:59",
+      "completed": false,
+      "added_date": "2026-01-03T00:49:29.888855"
+    },
+    {
+      "id": 2,
+      "course": "Physics",
+      "description": "acceleration",
+      "due_date": "2026-01-05T23:59:59",
+      "completed": false,
+      "added_date": "2026-01-04T00:06:31.557015"
+    },
+    {
+      "id": 3,
+      "course": "Mathematics",
+      "description": "Chapter 5 homework",
+      "due_date": "2026-01-09T23:59:59",
+      "completed": false,
+      "added_date": "2026-01-04T13:14:12.018103"
+    }
+  ],
+  "study_plans": [
+    {
+      "id": 1,
+      "subject": "physics.",
+      "exam_date": "2026-01-04T23:59:59",
+      "hours_per_day": 2.0,
+      "topics": [
+        "Topic 1"
+      ],
+      "schedule": [
+        {
+          "day": 1,
+          "date": "Sunday, January 04",
+          "topic": "\ud83d\udccb Final Review",
+          "hours": 2.0,
+          "completed": false
+        }
+      ],
+      "created_date": "2026-01-03T00:43:16.979514",
+      "total_hours": 2.0,
+      "days_until_exam": 1
+    },
+    {
+      "id": 2,
+      "subject": "Chemistry",
+      "exam_date": "2026-01-05T23:59:59",
+      "hours_per_day": 2.5,
+      "topics": [
+        "Atomic Structure",
+        "Chemical Bonds",
+        "Reactions",
+        "Stoichiometry"
+      ],
+      "schedule": [
+        {
+          "day": 1,
+          "date": "Monday, January 05",
+          "topic": "Atomic Structure",
+          "hours": 2.5,
+          "completed": false
+        }
+      ],
+      "created_date": "2026-01-04T13:14:12.030258",
+      "total_hours": 2.5,
+      "days_until_exam": 1
+    }
+  ],
+  "courses": [
+    "Physics",
+    "Mathematics"
+  ]
+}
